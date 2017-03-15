@@ -1,0 +1,9 @@
+ocdoc.cli.li/api  //API documentation
+https://lain.shadowkat.net/~izaya/ocdoc/en_US	//in-game OC manual as HTML
+
+
+PASTEBIN
+Big Reactors program by Krakaen 	(from YouTube)
+http://pastebin.com/sjJi0bum		//start.lua
+http://pastebin.com/3i9nBiyp		//buttonAPI.lua
+http://pastebin.com/ds2DnWHQ		//reactor.lua
