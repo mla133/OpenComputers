@@ -1,4 +1,4 @@
-ocdoc.cli.li/api  //API documentation
+ocdoc.cil.li/api  //API documentation
 https://lain.shadowkat.net/~izaya/ocdoc/en_US	//in-game OC manual as HTML
 
 
