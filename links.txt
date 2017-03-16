@@ -1,3 +1,5 @@
+DOCUMENTATION/MANUALS/WEBSITES
+
 ocdoc.cil.li/api  //API documentation
 https://lain.shadowkat.net/~izaya/ocdoc/en_US	//in-game OC manual as HTML
 
@@ -7,3 +9,19 @@ Big Reactors program by Krakaen 	(from YouTube)
 http://pastebin.com/sjJi0bum		//start.lua
 http://pastebin.com/3i9nBiyp		//buttonAPI.lua
 http://pastebin.com/ds2DnWHQ		//reactor.lua
+
+http://pastebin.com/EdhridjN		//simple-radar.lua
+
+INTERESTING QUTOES...
+
+"This is the Unix philosophy: Write programs that do one thing and do it well. Write programs to work together. Write programs to handle text streams, because that is a universal interface."  - Doug McIlroy
+
+“Make it run, then make it right, then make it fast”  - Kent Beck
+
+
+LOADING EEPROMs...
+
+You need to put the code into an eeprom and then the eeprom into the drone, either when your assembling it, or after by putting the drone and the eeprom into a crafting bench.
+
+To put the code into the eeprom, start up a computer as normal, when it has fully loaded, swap out the lua eeprom for a blank one. Then type "edit /dev/eeprom" and copy paste the code into the editor via the Insert key. Then save the code and exit, the eeprom will now have the code. Craft it with the drone to insert it.
+
