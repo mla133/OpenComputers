@@ -1,0 +1,13 @@
+Instructions for install:
+
+Insert an empty eeprom into your computer
+edit /dev/eeprom
+Paste the eeprom code and save.
+Paste the client code into either /usr/ or your mounted disk drive if you are using floppy disk of openos.
+Create a drone with navigation upgrade and wireless network card and the eeprom you made. (If you already have drone put it in crafting grid with your eeprom)
+
+Instructions for use:
+
+Start drone first
+Then open client
+Done. (You gotta use Ctrl+Alt+C to escape because I am lazy)
