@@ -1,4 +1,4 @@
-DOCUMENTATION/MANUALS/WEBSITES
+﻿DOCUMENTATION/MANUALS/WEBSITES
 
 ocdoc.cil.li/api  //API documentation
 https://lain.shadowkat.net/~izaya/ocdoc/en_US	//in-game OC manual as HTML
@@ -28,3 +28,7 @@ To put the code into the eeprom, start up a computer as normal, when it has full
 Or... you can use the program 'flash'
 
   flash -r <bios_name.lua>    to read from installed EEPROM
+
+BREAKING THE FOURTH WALL...
+
+http://hashbang.gr/breaking-the-4th-wall-with-minecraft/
