@@ -25,3 +25,6 @@ You need to put the code into an eeprom and then the eeprom into the drone, eith
 
 To put the code into the eeprom, start up a computer as normal, when it has fully loaded, swap out the lua eeprom for a blank one. Then type "edit /dev/eeprom" and copy paste the code into the editor via the Insert key. Then save the code and exit, the eeprom will now have the code. Craft it with the drone to insert it.
 
+Or... you can use the program 'flash'
+
+  flash -r <bios_name.lua>    to read from installed EEPROM
