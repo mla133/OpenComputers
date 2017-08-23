@@ -20,7 +20,7 @@ Power on the drone and return to the host machine. Now you can use the `net-flas
 
 The only required argument is the source. The program can either read from a file (if you pass the path to the file) or from stdin (it's just a simple `-`).
 
-There's not much to say on the former option. The latter is more interesting. If you just run net-flash -, you'll be prompted for the command to send to the remote host. But you can use piping. For example, to keep configuration and program separate from each other, you can use cat options.cfg program.lua to concatenate those two files, and pass the output to the net-flash so the remote receives the concatenated output.
+There's not much to say on the former option. The latter is more interesting. If you just run `net-flash -`, you'll be prompted for the command to send to the remote host. But you can use piping. For example, to keep configuration and program separate from each other, you can use cat options.cfg program.lua to concatenate those two files, and pass the output to the net-flash so the remote receives the concatenated output.
 
     $ cat options.cfg program.lua | net-flash -
 Pretty cool, isn't it?
