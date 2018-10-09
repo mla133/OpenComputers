@@ -5,8 +5,8 @@ Enjoy the script!
 --CONFIGURATION
 local CONFIG = {}
 CONFIG.GIT = {}
-CONFIG.GIT.NAME = "rater193"
-CONFIG.GIT.REPO = "OpenComputers-1.7.10-Base-Monitor"
+CONFIG.GIT.NAME = "mla133"
+CONFIG.GIT.REPO = "OpenComputers"
  
  
  
